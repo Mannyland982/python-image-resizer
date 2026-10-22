@@ -32,3 +32,16 @@ A multi-threaded, desktop batch image processing utility built with Python, Pill
    ```bash
    git clone [https://github.com/Mannyland982/python-image-resizer.git](https://github.com/Mannyland982/python-image-resizer.git)
    cd python-image-resizer
+   
+1 (Optional) Create a virtual environment:
+python -m venv .venv
+# On Windows:
+.venv\Scripts\activate
+# On macOS/Linux:
+source .venv/bin/activate
+
+2 Install dependencies:
+pip install -r requirements.txt
+
+3 Run the application:
+python main.py
