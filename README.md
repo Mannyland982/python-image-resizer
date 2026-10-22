@@ -1,4 +1,3 @@
-# python-image-resizer
 # Image Processor Pro
 
 A multi-threaded, desktop batch image processing utility built with Python, Pillow, and Tkinter / ttkbootstrap. Designed around SOLID architecture principles for reliability, safe atomic writing, and clean separation of concerns.
